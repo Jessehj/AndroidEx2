@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
     defaultConfig {
-        applicationId "com.slogup.jesse2.geoquiz"
+        applicationId "com.slogup.jesse.geoquiz"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1

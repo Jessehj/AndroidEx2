@@ -1,4 +1,4 @@
-package com.slogup.jesse2.geoquiz;
+package com.slogup.jesse.geoquiz;
 
 import org.junit.Test;
 

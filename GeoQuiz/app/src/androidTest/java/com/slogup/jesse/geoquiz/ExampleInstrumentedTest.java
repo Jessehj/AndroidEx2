@@ -1,4 +1,4 @@
-package com.slogup.jesse2.geoquiz;
+package com.slogup.jesse.geoquiz;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.slogup.jesse2.geoquiz", appContext.getPackageName());
+        assertEquals("com.slogup.jesse.geoquiz", appContext.getPackageName());
     }
 }
